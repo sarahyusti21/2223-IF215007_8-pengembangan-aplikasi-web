@@ -1,10 +1,13 @@
 # Propsal
 <h2>Permasalahan</h2>
-<span>Data kosan yang masih dilakukan secara manual (tulis tangan) dapat mengakibatkan beberapa data hilang karena terlalu banyak data yang tidak disimpan secara komputerisasi</span>
+<span>Data keuangan kosan yang masih dilakukan secara manual (tulis tangan) dapat mengakibatkan beberapa data hilang karena terlalu banyak data yang tidak disimpan secara komputerisasi</span>
 
 <h2>Rancangan Solusi</h2>
-Aplikasi Sistem Informasi Keuangan Kosan berbasis web adalah tawaran solusi yang saya ajukan untuk memudahkan pemilik kos mengetahui keuangan kosan tersebut.
-
+<ul>
+  <li>Buat laporan penghasilan kos</li>
+  <li>Buat pengingat jatuh tempo untuk member kos</li>
+  <li>Buat riwayat pembayaran member kos</li>
+</ul>
 <h2>Use Case</h2>
 <ul>
   <li>User admin dapat menambah member (penghuni kos)</li>
