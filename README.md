@@ -1,4 +1,9 @@
-# Proposal
+# Proposal Aplikasi Berbasis Web
+<h2>Author</h2>
+Nama  : Sarah Yusti Hamidah
+NIM   : 1207050116
+Kelas : IF-F
+
 <h2>Permasalahan</h2>
 <span>Data keuangan kost yang masih dilakukan secara manual (tulis tangan) dapat mengakibatkan beberapa data hilang karena terlalu banyak data yang tidak disimpan secara komputerisasi</span>
 
