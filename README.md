@@ -1,4 +1,4 @@
-# Propsal
+# Proposal
 <h2>Permasalahan</h2>
 <span>Data keuangan kosan yang masih dilakukan secara manual (tulis tangan) dapat mengakibatkan beberapa data hilang karena terlalu banyak data yang tidak disimpan secara komputerisasi</span>
 
