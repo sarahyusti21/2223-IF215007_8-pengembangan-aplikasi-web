@@ -233,7 +233,7 @@
 
 <h3><li>Data Kamar Kost</li></h3>
 
-![Tabel data kos](https://user-images.githubusercontent.com/82995130/189543716-f99406d1-35ee-47c5-96e2-612bce6c4494.png)
+![Tabel data kos](https://user-images.githubusercontent.com/82995130/189544174-aa9395de-2444-40f2-a40a-45206edd21af.png)
 
 <h3><li>Tambah Kamar Kost</li></h3>
 
