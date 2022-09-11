@@ -38,7 +38,7 @@
     <tr>
         <td>username</td>
         <td>string</td>
-        <td>marsaulwan</td>
+        <td>marsaa</td>
     </tr>
     <tr>
         <td>name</td>
@@ -198,3 +198,16 @@
         <td>lunas</td>
     </tr>
   </table>
+
+
+<h2>UX Wireframe</h2>
+<h4>Login</h4>
+![Login](https://user-images.githubusercontent.com/82995130/189540812-0bf162e3-22ef-4893-be18-64e7bc881557.png)
+
+<h4>Beranda admin</h4>
+![Beranda (admin)](https://user-images.githubusercontent.com/82995130/189540881-d1997282-579b-4eb9-a7d5-f03fc9d0e5ec.png)
+
+<h4>Profil admin</h4>
+![Profil (admin)](https://user-images.githubusercontent.com/82995130/189540913-c2b92ed8-4ea5-48ca-b8c0-ce8a97520f3c.png)
+
+
