@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background: #fafafa;
+    font-size: 14px;
+}
+
+.wrapper .header{
+    max-width: 350px;
+    width: 100%;
+    margin: 50px auto;
+    height: auto;
+}
+
+.wrapper .header .header-top, .wrapper .signup{
+    background: #fff;
+    padding: 40px 40px 40px;
+    border: 1px solid #e6e6e6;
+    border-radius: 1px;
+}
+
+.wrapper .header .logo img{
+    display: block;
+    margin: 0 auto 35px;
+}
+
+.wrapper .header .form .input-field{
+    margin-bottom: 5px;
+}
+
+.wrapper .header .form .input-field .input{ 
+    background: #fafafa;
+    width: 100%;
+    padding: 10px;
+    color: #262626;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.input-field .input:focus{
+    border: 1px solid #b2b2b2;
+}
+
+.wrapper .header .form .btn{
+    background-color: #3897f0;
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #3897f0;
+    text-align: center;
+}
+
+.wrapper .header .form .btn a{
+    color: #fff;
+    display: block;
+}
+
+.wrapper .header .or{
+    display: flex;
+    margin: 15px 0 20px;
+    height: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.wrapper .header .or .line{
+    background: #efefef;
+    width: 105px;
+    height: 2px;
+}
+
+.wrapper .header .or p{
+    color: #999;
+    font-size: 12px;
+}
+
+.wrapper .lainnya .fb{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.wrapper .lainnya .fb img{
+	width: 16px;
+	height: 16px;
+}
+
+.forgot{
+    font-size: 12px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.forgot a{
+    color: #003569;
+}
+
+.signup{
+    margin: 10px 0 20px;
+    padding: 25px 40px;
+    color: #262626;
+    text-align: center;
+}
+
+.signup a{
+    color: #3897f0;
+}
+
+.app{
+    color: #262626;
+    text-align: center;
+}
+
+.app p{
+    margin-bottom: 20px;
+}
+
+.app a img{
+    margin: 0 5px;
+    width: 135px;
+    height: 40px;
+}
+
+.footer{
+    max-width: 935px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer .link ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.footer .link ul li a{
+    color: #003569;
+    font-size: 12px;
+}
+
+.copyright{
+    color: #999;
+}
