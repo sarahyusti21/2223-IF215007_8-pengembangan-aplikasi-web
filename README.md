@@ -34,7 +34,7 @@
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/10.png)
 
 ## Cpanel operation
-![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/11.png)
+![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/11-new.png)
 
 ## Domain registration
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/12.png)
