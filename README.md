@@ -7,7 +7,7 @@
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/1.png)
 
 ## Github Project Initialization
-![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/2.png)
+![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/2-new.png)
 
 ## Hoppscotch/Postman Access
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/3-new.png)
