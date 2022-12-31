@@ -10,7 +10,7 @@
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/2.png)
 
 ## Hoppscotch/Postman Access
-![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/3.png)
+![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/3-new.png)
 
 ## PHP & Composer installation & hello world
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/4.png)
