@@ -40,8 +40,8 @@
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/12.png)
 
 ## HTML Responsive Layout with Media Query & Flexbox
-![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/90.png)
-![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/91.png)
+![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/90-new.png)
+![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/91-new.png)
 
 ## PHP DB - Web Service
 ![image](https://raw.githubusercontent.com/sarahyusti21/2223-IF215007_8-pengembangan-aplikasi-web/main/image/93.png)
